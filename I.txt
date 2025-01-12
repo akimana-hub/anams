@@ -1,0 +1,2 @@
+There are many commands in git like git.init, git add, git status,sit commit, git remote, git push etc
+

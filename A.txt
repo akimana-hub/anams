@@ -1,0 +1,4 @@
+Theres a lot to learn about the git, Firstly it is version control system and it can be used for managing the sourse code insiide the git,
+Hi i am learning git
+
+
